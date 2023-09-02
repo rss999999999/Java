@@ -15,7 +15,7 @@ public class _Exercicio01 {
 
         System.out.printf("%nProducts: %n%s, which price is $ %.2f%n%s, which price is $ %.2f%n%n", product1, price1, product2, price2);
         System.out.printf("Record: %d years old, code %d and gender: %s%n%n", age, code, gender);
-        System.out.printf("Measure with eight decimal places: %.8f%nRounded (three decimal places): %.3f%n", measure,measure);
+        System.out.printf("Measure with eight decimal places: %.8f%nRounded (three decimal places): %.3f%n", measure, measure);
 
         Locale.setDefault(Locale.US);
         System.out.printf("US decimal point: %.3f%n", measure);

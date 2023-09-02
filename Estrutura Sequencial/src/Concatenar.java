@@ -25,6 +25,18 @@ public class Concatenar {
 
         // Imprimindo a frase formatada com os valores das variáveis
         System.out.printf("%s tem %d anos e ganha R$ %.2f reais%n", nome, idade, renda);
+
+        //A autoendentação no intellij é: ctrl+alt+L
+        //sout para o sysout (vscode)
+
+        float b, B, h, area;
+        b = 6f;
+        B = 8f;
+        h = 5f;
+        area = (b + B) / 2f * h;
+        System.out.println(area);
+
+
     }
 }
 
