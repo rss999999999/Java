@@ -1,4 +1,4 @@
-/**
+package EstruturaSequencial; /**
  * Estrutura Sequencial.
  *
  * Autor: Rodrigo Soares Sampaio
