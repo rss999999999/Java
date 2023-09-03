@@ -13,6 +13,9 @@ public class LerDados {
         System.out.println(s3);
         sc.close();
 
+
+        //casting
+
         float x;
         x = (int) Math.pow(5, 2);
         System.out.println(x);
