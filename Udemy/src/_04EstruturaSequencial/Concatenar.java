@@ -31,8 +31,8 @@ public class Concatenar {
         //A autoendentação no intellij é: ctrl+alt+L
         //sout para o sysout (vscode)
 
-        float b, B, h, area;
-        b = 6f;
+        float b, B, h, area; //float é um número real com precisão simples
+        b = 6f; //f para float
         B = 8f;
         h = 5f;
         area = (b + B) / 2f * h;
