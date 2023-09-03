@@ -20,5 +20,8 @@ public class Ternario {
         System.out.println("Desconto:" + desconto);
         System.out.println("Valor a pagar:" + (preco - desconto)    );
         sc.close();
+
+
+
     }
 }
