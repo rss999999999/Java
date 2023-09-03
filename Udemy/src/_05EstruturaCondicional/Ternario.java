@@ -4,7 +4,7 @@ package _05EstruturaCondicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-//Esse código calcula o desconto de um produto conforme o seu preço usando o operador ternário
+//Esse código calcula o desconto de um produto conforme o seu preço usando o operador ternário.
 
 public class Ternario {
     public static void main(String[] args) {
