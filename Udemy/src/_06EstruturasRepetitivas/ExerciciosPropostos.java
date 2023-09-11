@@ -9,16 +9,17 @@ public class ExerciciosPropostos {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        int password = 0;
+//        int password = 0;
+//
+//        while (password != 2002) {
+//            System.out.println("Digite a senha:");
+//            password = sc.nextInt();
+//            if (password != 2002) {
+//                System.out.println("Senha Invalida");
+//            }
+//        }
+//        System.out.println("Acesso Concedido");
 
-        while (password != 2002) {
-            System.out.println("Digite a senha:");
-            password = sc.nextInt();
-            if (password != 2002) {
-                System.out.println("Senha Invalida");
-            }
-        }
-        System.out.println("Acesso Concedido");
 
         sc.close();
     }
