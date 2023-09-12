@@ -4,7 +4,7 @@ public class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //aqui, o 6º bit é 1, os outros são 0
-        //int mask = 0b100001;  //aqui uso o & para testar se o 6º bit ou o 1º bit é 1 ou 0.
+        //int mask = 0b100001;  //aqui uso o & para testar se o 6º bit ou o 1º bit é 1 ou 0
         int mask = 0b100000;
         int n = sc.nextInt();
 
