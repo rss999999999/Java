@@ -14,7 +14,7 @@ public class Vetores {
         vetor[3] = 40;
         vetor[4] = 50;
 
-        // Acessando e exibindo os elementos do vetor
+        // Acessando e exibindo os elementos do vetor.
         System.out.println("Elementos do vetor:");
         for (int i = 0; i < vetor.length; i++) {
             System.out.println(vetor[i]);
