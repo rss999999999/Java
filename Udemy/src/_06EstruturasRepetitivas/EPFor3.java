@@ -22,5 +22,4 @@ public class EPFor3 {
             }
         sc.close();
     }
-
 }
