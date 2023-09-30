@@ -24,5 +24,12 @@ public class Incremento {
         System.out.println(a);
         System.out.println(b);
         System.out.println("----------");
+
+        int j=10;
+        int w=5;
+        j=w++; //na primeira iteração o w mantêm o valor 5
+        System.out.println("j = " + j);
+        System.out.println("w = " + w); //na segunda iteração o w recebe o valor 6
+
     }
 }
